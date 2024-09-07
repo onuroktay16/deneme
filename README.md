@@ -77,3 +77,8 @@ ProductDetailTests: Contains specific assignment test cases.
 
 3.The test will execute and the results will be displayed in the output.
 
+## Note
+
+Test scenario 2, I could not login because of service issue. When I try to login, error message shown like below screen shot.
+
+
